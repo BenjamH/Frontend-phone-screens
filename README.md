@@ -7,7 +7,7 @@ These are the situations we'll be working to avoid!. We know you could easily co
 ## CSS
 CSS questions that are often used in phone screens for front-end positions.
 
-1) Hamburger Menu
+### 1) Hamburger Menu
 
 You're given a div with a class name "hamburger". Create the hamburger menu icon (3 horizontal lines). You have 10 minutes...go! Note: there are quite a few ways to accomplish this.
 
@@ -21,12 +21,12 @@ Here are some ideas:
 - Have you ever used "before" and "after" in CSS?
 - have you heard of making a double border?
 
-2) Fancy Button
+### 2) Fancy Button
 
 ## HTML/CSS + vanillaJS/jQuery
 
-1) Color Swatch Changer
+### 1) Color Swatch Changer
 
-2)
+### 2)
 
 
