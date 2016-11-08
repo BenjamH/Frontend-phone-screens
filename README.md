@@ -1,6 +1,6 @@
 # Frontend Phone Screens
 
-There you are, at your computer on a technical phone screen for a company you would LOVE to work for. The interviewer asks you to "center a div, vertically", so that you can get "warmed up". Uh oh...you draw a blank, and realize you can't google the syntax for your first idea. The interviewer waits for a moment, and then says impatiently: "You said you're a front end developer, right...?"
+There you are, at your computer on a technical phone screen for a company you would LOVE to work for. The interviewer asks you to "center a div, vertically", so that you can get "warmed up". Uh oh...you draw a blank, and realize you can't google the syntax for your first idea. The interviewer waits for a moment, and then says: "You said you're a front end developer, right...?"
 
 These are the situations we'll be working to avoid!. We know you could easily complete any of the challenges in this repo with the help of google and a little time, but your goal is to be able to pass these with ease so you can get to the onsite interviews. A great way to accomplish that is through exposure to new problems, and repetition. Any prompt added to this repo has been used in a real interview within the last 6 months. Enjoy!
 
