@@ -27,7 +27,9 @@ Solutions: https://css-tricks.com/three-line-menu-navicon/
 ### 2) Fancy Button
 
 Using only CSS, create the button displayed below. Shoot for < 20 minutes. Go!
-![alt text](http://i.imgur.com/gnZnY.png "Fancy Button")
+
+ ![alt text](http://i.imgur.com/gnZnY.png "Fancy Button")
+
 http://codepen.io/mobify/pen/GtqKj
 
 
