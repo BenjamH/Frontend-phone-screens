@@ -11,7 +11,7 @@ CSS questions that are often used in phone screens for front-end positions.
 
 You're given a div with a class name "hamburger". Create the hamburger menu icon (3 horizontal lines). You have 10 minutes...go! Note: there are quite a few ways to accomplish this.
 
-Here's the codepen where you can give it a shot: codepen.io
+Here's a codepen where you can give it a shot: http://codepen.io/quinkinser/pen/BQNWmm
 
 Stuck?
 Here are some ideas:
@@ -20,6 +20,9 @@ Here are some ideas:
 - How about "linear-gradient"?
 - Have you ever used "before" and "after" in CSS?
 - have you heard of making a double border?
+
+SPOILERS AHEAD!
+Solutions: https://css-tricks.com/three-line-menu-navicon/
 
 ### 2) Fancy Button
 
